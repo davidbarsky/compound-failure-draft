@@ -1,0 +1,9 @@
+[package]
+name = "compound-failure"
+version = "0.1.0"
+authors = ["David Barsky <dbarsky@amazon.com>"]
+
+[dependencies]
+failure = "0.1"
+serde = "*"
+serde_json = "*"
